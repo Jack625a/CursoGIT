@@ -1,12 +1,20 @@
 *{margin:0;
     padding:0}
   
+<<<<<<< HEAD
   body{
+=======
+   body{
+>>>>>>> d3eb29d67f938fbe5aa26465513e1fb05ed7dccb
     /*background-color:#A1CBFF;*/
     /*Nuevo color de fondo sugerido*/
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 19%, rgba(9,102,121,1) 62%, rgba(0,212,255,1) 98%);
+<<<<<<< HEAD
     color: #CFC9C8;
+=======
+    color: #ffff;
+>>>>>>> d3eb29d67f938fbe5aa26465513e1fb05ed7dccb
   }
   
   header{
