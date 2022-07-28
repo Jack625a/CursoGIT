@@ -92,7 +92,9 @@
   .header2 nav{
     line-height:50px;
   }
-  /* paleta de colores
-  #A1CBFF body - azul claro
-  #2D4161 header - azul oscuro
-  #CFC9C8 letras header - gris claro
+  #contenedor{
+    background-color: #CFC9C8;
+    border: 10px outset #cccccc;
+  }
+
+  
